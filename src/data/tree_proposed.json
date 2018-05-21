@@ -1,0 +1,971 @@
+[
+  {
+    "type": "directory",
+    "name": ".",
+    "contents": [
+      {
+        "type": "directory",
+        "name": "App",
+        "size": 4096,
+        "contents": [
+          { "type": "file", "name": "App.js", "size": 1419 },
+          { "type": "file", "name": "App.test.js", "size": 254 },
+          {
+            "type": "directory",
+            "name": "features",
+            "size": 4096,
+            "contents": [
+              {
+                "type": "directory",
+                "name": "AccountSetup",
+                "size": 4096,
+                "contents": [
+                  { "type": "file", "name": "AccountSetup.js", "size": 2521 },
+                  { "type": "file", "name": "AccountSetup.scss", "size": 3951 },
+                  {
+                    "type": "directory",
+                    "name": "components",
+                    "size": 4096,
+                    "contents": [
+                      {
+                        "type": "file",
+                        "name": "AddCreditCard.js",
+                        "size": 7513
+                      },
+                      {
+                        "type": "file",
+                        "name": "CompanyInfo.js",
+                        "size": 9945
+                      },
+                      { "type": "file", "name": "Payments.js", "size": 5489 },
+                      {
+                        "type": "file",
+                        "name": "PricingTable.js",
+                        "size": 5995
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "directory",
+                "name": "ChannelEditor",
+                "size": 4096,
+                "contents": [
+                  { "type": "file", "name": "ChannelEditor.js", "size": 4003 },
+                  {
+                    "type": "directory",
+                    "name": "components",
+                    "size": 4096,
+                    "contents": [
+                      { "type": "file", "name": "BoxSetup.js", "size": 9943 },
+                      {
+                        "type": "file",
+                        "name": "ChoiceTransitionPage.js",
+                        "size": 1702
+                      },
+                      { "type": "file", "name": "formBox.js", "size": 2900 },
+                      { "type": "file", "name": "formSetup.js", "size": 17108 },
+                      { "type": "file", "name": "Mockup.js", "size": 7392 },
+                      { "type": "file", "name": "Mockup.scss", "size": 286 },
+                      {
+                        "type": "file",
+                        "name": "MockupStepSelector.js",
+                        "size": 1095
+                      },
+                      {
+                        "type": "file",
+                        "name": "MockupStepSelector.scss",
+                        "size": 530
+                      },
+                      { "type": "file", "name": "TextBox.js", "size": 1702 },
+                      { "type": "file", "name": "TextSetup.js", "size": 20262 },
+                      {
+                        "type": "file",
+                        "name": "TransitionalPage.js",
+                        "size": 17811
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "directory",
+                "name": "Channels",
+                "size": 4096,
+                "contents": [
+                  {
+                    "type": "directory",
+                    "name": "FacebookNotification",
+                    "size": 4096,
+                    "contents": [
+                      {
+                        "type": "file",
+                        "name": "FacebookMockup.js",
+                        "size": 1509
+                      },
+                      {
+                        "type": "file",
+                        "name": "FacebookMockup.scss",
+                        "size": 3263
+                      },
+                      {
+                        "type": "file",
+                        "name": "FacebookSample.js",
+                        "size": 432
+                      },
+                      {
+                        "type": "file",
+                        "name": "FbNotification.js",
+                        "size": 8783
+                      }
+                    ]
+                  },
+                  {
+                    "type": "directory",
+                    "name": "Lightbox",
+                    "size": 4096,
+                    "contents": [
+                      { "type": "file", "name": "index.js", "size": 9090 },
+                      {
+                        "type": "file",
+                        "name": "LightboxChoice.js",
+                        "size": 2076
+                      },
+                      {
+                        "type": "file",
+                        "name": "LightboxImage.js",
+                        "size": 39251
+                      },
+                      {
+                        "type": "file",
+                        "name": "LightboxMockup.js",
+                        "size": 1084
+                      },
+                      {
+                        "type": "file",
+                        "name": "LightboxMockup.scss",
+                        "size": 12620
+                      },
+                      {
+                        "type": "file",
+                        "name": "LightboxSample.js",
+                        "size": 435
+                      },
+                      {
+                        "type": "file",
+                        "name": "LightboxText.js",
+                        "size": 37026
+                      }
+                    ]
+                  },
+                  {
+                    "type": "directory",
+                    "name": "LightboxImage",
+                    "size": 4096,
+                    "contents": [
+                      { "type": "file", "name": "index.js", "size": 14644 }
+                    ]
+                  },
+                  {
+                    "type": "file",
+                    "name": "MessageNotification.js",
+                    "size": 8544
+                  },
+                  {
+                    "type": "directory",
+                    "name": "OnSiteMessage",
+                    "size": 4096,
+                    "contents": [
+                      {
+                        "type": "file",
+                        "name": "MessengerNotificationMockup.js",
+                        "size": 492
+                      },
+                      {
+                        "type": "file",
+                        "name": "MessengerNotificationSample.js",
+                        "size": 454
+                      },
+                      {
+                        "type": "file",
+                        "name": "OnSiteMessageChoice.js",
+                        "size": 2520
+                      },
+                      {
+                        "type": "file",
+                        "name": "OnsiteMessageComplete.js",
+                        "size": 4710
+                      },
+                      {
+                        "type": "file",
+                        "name": "OnSiteMessageComplete.js",
+                        "size": 17430
+                      },
+                      {
+                        "type": "file",
+                        "name": "OnSiteMessageMockup.js",
+                        "size": 542
+                      },
+                      {
+                        "type": "file",
+                        "name": "OnSiteMessageMockup.scss",
+                        "size": 4243
+                      },
+                      {
+                        "type": "file",
+                        "name": "OnSiteMessageSample.js",
+                        "size": 577
+                      },
+                      {
+                        "type": "file",
+                        "name": "OnSiteMessageSimple.js",
+                        "size": 14280
+                      },
+                      {
+                        "type": "file",
+                        "name": "OnSiteNotificationChoice.js",
+                        "size": 2469
+                      },
+                      {
+                        "type": "file",
+                        "name": "OnSiteNotificationImage.js",
+                        "size": 54091
+                      },
+                      {
+                        "type": "file",
+                        "name": "OnSiteNotificationText.js",
+                        "size": 53992
+                      }
+                    ]
+                  },
+                  {
+                    "type": "directory",
+                    "name": "OnSiteNotification",
+                    "size": 4096,
+                    "contents": [
+                      {
+                        "type": "file",
+                        "name": "OnSiteNotificationImage.js",
+                        "size": 7401
+                      },
+                      {
+                        "type": "file",
+                        "name": "OnSiteNotificationImage.scss",
+                        "size": 685
+                      },
+                      {
+                        "type": "file",
+                        "name": "OnSiteNotificationMockup.js",
+                        "size": 1624
+                      },
+                      {
+                        "type": "file",
+                        "name": "OnSiteNotificationMockup.scss",
+                        "size": 2693
+                      },
+                      {
+                        "type": "file",
+                        "name": "OnSiteNotificationSample.js",
+                        "size": 497
+                      },
+                      {
+                        "type": "file",
+                        "name": "OnSiteNotificationSimple.js",
+                        "size": 3673
+                      },
+                      {
+                        "type": "file",
+                        "name": "OnSiteNotificationSimple.scss",
+                        "size": 2825
+                      }
+                    ]
+                  },
+                  {
+                    "type": "directory",
+                    "name": "PopUpOptIn",
+                    "size": 4096,
+                    "contents": [
+                      { "type": "file", "name": "index.js", "size": 8026 },
+                      { "type": "file", "name": "style.scss", "size": 7305 }
+                    ]
+                  },
+                  {
+                    "type": "directory",
+                    "name": "PushNotification",
+                    "size": 4096,
+                    "contents": [
+                      {
+                        "type": "file",
+                        "name": "PushNotificationAndroidMockup.js",
+                        "size": 1257
+                      },
+                      {
+                        "type": "file",
+                        "name": "PushNotificationAndroidMockup.scss",
+                        "size": 1597
+                      },
+                      {
+                        "type": "file",
+                        "name": "PushNotification.js",
+                        "size": 14781
+                      },
+                      {
+                        "type": "file",
+                        "name": "PushNotificationMacOSMockup.js",
+                        "size": 996
+                      },
+                      {
+                        "type": "file",
+                        "name": "PushNotificationMacOSMockup.scss",
+                        "size": 1501
+                      },
+                      {
+                        "type": "file",
+                        "name": "PushNotificationMockup.js",
+                        "size": 1319
+                      },
+                      {
+                        "type": "file",
+                        "name": "PushNotificationMockup.scss",
+                        "size": 1717
+                      },
+                      {
+                        "type": "file",
+                        "name": "PushNotificationSample.js",
+                        "size": 491
+                      },
+                      {
+                        "type": "file",
+                        "name": "PushNotificationWindowsMockup.js",
+                        "size": 2870
+                      },
+                      {
+                        "type": "file",
+                        "name": "PushNotificationWindowsMockup.scss",
+                        "size": 1509
+                      }
+                    ]
+                  }
+                ]
+              },
+              { "type": "file", "name": "Login.js", "size": 1288 },
+              { "type": "file", "name": "Main.js", "size": 1173 },
+              {
+                "type": "directory",
+                "name": "Result",
+                "size": 4096,
+                "contents": [
+                  { "type": "file", "name": "Result.js", "size": 28852 },
+                  { "type": "file", "name": "Result.scss", "size": 2749 }
+                ]
+              },
+              { "type": "file", "name": "SignUp.js", "size": 1333 },
+              {
+                "type": "directory",
+                "name": "StoryCreation",
+                "size": 4096,
+                "contents": [
+                  {
+                    "type": "directory",
+                    "name": "components",
+                    "size": 4096,
+                    "contents": [
+                      {
+                        "type": "file",
+                        "name": "ChannelPicker.js",
+                        "size": 11004
+                      },
+                      {
+                        "type": "file",
+                        "name": "EventConfiguration.js",
+                        "size": 23075
+                      },
+                      { "type": "file", "name": "index.js", "size": 12283 },
+                      {
+                        "type": "file",
+                        "name": "ObjectivePicker.js",
+                        "size": 4454
+                      },
+                      {
+                        "type": "file",
+                        "name": "StoryCanvas.js",
+                        "size": 13478
+                      },
+                      {
+                        "type": "file",
+                        "name": "StoryCreationTutorial.js",
+                        "size": 1183
+                      },
+                      {
+                        "type": "file",
+                        "name": "StoryEditor.js",
+                        "size": 23943
+                      },
+                      {
+                        "type": "file",
+                        "name": "StorySummary.js",
+                        "size": 18895
+                      }
+                    ]
+                  },
+                  { "type": "file", "name": "StoryCreation.js", "size": 793 }
+                ]
+              },
+              {
+                "type": "directory",
+                "name": "StoryList",
+                "size": 4096,
+                "contents": [
+                  {
+                    "type": "directory",
+                    "name": "components",
+                    "size": 4096,
+                    "contents": [
+                      {
+                        "type": "file",
+                        "name": "LegacyLightboxStoryPreview.js",
+                        "size": 5212
+                      },
+                      {
+                        "type": "file",
+                        "name": "ListFilters.js",
+                        "size": 2526
+                      },
+                      {
+                        "type": "file",
+                        "name": "ScheduleStatus.js",
+                        "size": 1930
+                      },
+                      {
+                        "type": "file",
+                        "name": "ScheduleStatus.scss",
+                        "size": 1721
+                      },
+                      {
+                        "type": "file",
+                        "name": "StoryEditModal.js",
+                        "size": 14347
+                      },
+                      {
+                        "type": "file",
+                        "name": "StoryEditModal.scss",
+                        "size": 986
+                      },
+                      {
+                        "type": "file",
+                        "name": "StoryItemControls.js",
+                        "size": 5638
+                      },
+                      {
+                        "type": "file",
+                        "name": "StoryItemControls.scss",
+                        "size": 1680
+                      },
+                      {
+                        "type": "file",
+                        "name": "StoryListContent.js",
+                        "size": 3544
+                      },
+                      {
+                        "type": "file",
+                        "name": "StoryListContent.scss",
+                        "size": 3840
+                      },
+                      {
+                        "type": "file",
+                        "name": "StoryListHeader.js",
+                        "size": 1075
+                      },
+                      {
+                        "type": "file",
+                        "name": "StoryListItem.js",
+                        "size": 5874
+                      },
+                      {
+                        "type": "file",
+                        "name": "StoryListItem.scss",
+                        "size": 267
+                      },
+                      {
+                        "type": "file",
+                        "name": "StoryPreviewDetails.js",
+                        "size": 4325
+                      },
+                      {
+                        "type": "file",
+                        "name": "StoryPreviewModal.js",
+                        "size": 4092
+                      },
+                      {
+                        "type": "file",
+                        "name": "StoryPreviewModal.scss",
+                        "size": 910
+                      }
+                    ]
+                  },
+                  { "type": "file", "name": "StoryList.js", "size": 25861 }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "directory",
+        "name": "components",
+        "size": 4096,
+        "contents": [
+          {
+            "type": "directory",
+            "name": "AnchoredPortal",
+            "size": 4096,
+            "contents": [
+              { "type": "file", "name": "index.js", "size": 2663 },
+              { "type": "file", "name": "style.scss", "size": 84 }
+            ]
+          },
+          { "type": "file", "name": "AsideLogin.js", "size": 1368 },
+          {
+            "type": "directory",
+            "name": "Audience",
+            "size": 4096,
+            "contents": [
+              { "type": "file", "name": "AgeGroupSelect.js", "size": 1373 },
+              { "type": "file", "name": "AudienceCanvas.js", "size": 4226 },
+              { "type": "file", "name": "DeviceToggle.js", "size": 1393 },
+              { "type": "file", "name": "GenderToggle.js", "size": 1400 },
+              { "type": "file", "name": "LocationFilter.js", "size": 1613 }
+            ]
+          },
+          {
+            "type": "directory",
+            "name": "Card",
+            "size": 4096,
+            "contents": [
+              { "type": "file", "name": "CardHeading.js", "size": 438 },
+              { "type": "file", "name": "Card.js", "size": 2346 },
+              { "type": "file", "name": "style.scss", "size": 5026 }
+            ]
+          },
+          {
+            "type": "directory",
+            "name": "CharsLeft",
+            "size": 4096,
+            "contents": [
+              { "type": "file", "name": "index.js", "size": 639 },
+              { "type": "file", "name": "style.scss", "size": 145 }
+            ]
+          },
+          { "type": "file", "name": "ClickOutside.js", "size": 370 },
+          { "type": "file", "name": "DestinationURL.js", "size": 11584 },
+          {
+            "type": "directory",
+            "name": "FeatureTip",
+            "size": 4096,
+            "contents": [
+              { "type": "file", "name": "index.js", "size": 2400 },
+              { "type": "file", "name": "style.scss", "size": 1274 }
+            ]
+          },
+          {
+            "type": "directory",
+            "name": "Footer",
+            "size": 4096,
+            "contents": [
+              {
+                "type": "directory",
+                "name": "components",
+                "size": 4096,
+                "contents": [
+                  { "type": "file", "name": "StoryFlow.js", "size": 2394 }
+                ]
+              },
+              { "type": "file", "name": "Footer.js", "size": 351 },
+              { "type": "file", "name": "FooterNavigation.js", "size": 742 },
+              { "type": "file", "name": "Footer.scss", "size": 1802 }
+            ]
+          },
+          {
+            "type": "directory",
+            "name": "LoginForm",
+            "size": 4096,
+            "contents": [
+              { "type": "file", "name": "index.js", "size": 8268 },
+              { "type": "file", "name": "style.scss", "size": 1956 }
+            ]
+          },
+          { "type": "file", "name": "LogoutLink.js", "size": 908 },
+          {
+            "type": "directory",
+            "name": "Modal",
+            "size": 4096,
+            "contents": [
+              { "type": "file", "name": "Modal.js", "size": 4938 },
+              { "type": "file", "name": "style.scss", "size": 7255 }
+            ]
+          },
+          {
+            "type": "directory",
+            "name": "Navigation",
+            "size": 4096,
+            "contents": [
+              { "type": "file", "name": "index.js", "size": 66 },
+              { "type": "file", "name": "NavigationCanvas.js", "size": 11042 },
+              { "type": "file", "name": "style.scss", "size": 2240 }
+            ]
+          },
+          { "type": "file", "name": "PreventDisabled.js", "size": 711 },
+          { "type": "file", "name": "PrivateRoute.js", "size": 484 },
+          {
+            "type": "directory",
+            "name": "Schedule",
+            "size": 4096,
+            "contents": [
+              { "type": "file", "name": "ScheduleCanvas.js", "size": 3973 },
+              {
+                "type": "file",
+                "name": "ScheduleDatedConfiguration.js",
+                "size": 4616
+              },
+              { "type": "file", "name": "style.scss", "size": 815 }
+            ]
+          },
+          {
+            "type": "directory",
+            "name": "SelectBox",
+            "size": 4096,
+            "contents": [
+              { "type": "file", "name": "SimpleFilterSelect.js", "size": 1132 },
+              { "type": "file", "name": "StringFilterSelect.js", "size": 1142 }
+            ]
+          },
+          {
+            "type": "directory",
+            "name": "SigninForm",
+            "size": 4096,
+            "contents": [
+              {
+                "type": "directory",
+                "name": "components",
+                "size": 4096,
+                "contents": [
+                  { "type": "file", "name": "ModalFbSetup.js", "size": 8716 },
+                  { "type": "file", "name": "ModalSDK.js", "size": 7182 },
+                  { "type": "file", "name": "ModalSignUp.js", "size": 3147 },
+                  { "type": "file", "name": "ModalSuccess.js", "size": 7298 }
+                ]
+              },
+              { "type": "file", "name": "index.js", "size": 35771 },
+              { "type": "file", "name": "style.scss", "size": 51 }
+            ]
+          },
+          { "type": "file", "name": "StoryConcludedModal.js", "size": 4506 },
+          {
+            "type": "directory",
+            "name": "ToggleButton",
+            "size": 4096,
+            "contents": [
+              { "type": "file", "name": "PriorityToggle.js", "size": 1596 },
+              { "type": "file", "name": "ToggleButton.js", "size": 997 },
+              { "type": "file", "name": "ToggleButton.scss", "size": 3568 }
+            ]
+          },
+          {
+            "type": "directory",
+            "name": "TopAlert",
+            "size": 4096,
+            "contents": [
+              { "type": "file", "name": "index.js", "size": 4444 },
+              { "type": "file", "name": "style.scss", "size": 1312 }
+            ]
+          },
+          {
+            "type": "directory",
+            "name": "TopBar",
+            "size": 4096,
+            "contents": [
+              {
+                "type": "directory",
+                "name": "components",
+                "size": 4096,
+                "contents": [
+                  {
+                    "type": "file",
+                    "name": "NotificationsPanel.js",
+                    "size": 1955
+                  },
+                  { "type": "file", "name": "SearchBox.js", "size": 499 },
+                  { "type": "file", "name": "UserDetails.js", "size": 6903 }
+                ]
+              },
+              { "type": "file", "name": "index.js", "size": 3509 },
+              { "type": "file", "name": "style.scss", "size": 6189 }
+            ]
+          },
+          {
+            "type": "directory",
+            "name": "VariantPreview",
+            "size": 4096,
+            "contents": [
+              {
+                "type": "directory",
+                "name": "components",
+                "size": 4096,
+                "contents": [
+                  {
+                    "type": "file",
+                    "name": "CreateVariantButton.js",
+                    "size": 1397
+                  },
+                  { "type": "file", "name": "FacebookPreview.js", "size": 757 },
+                  {
+                    "type": "file",
+                    "name": "LightboxPreview.js",
+                    "size": 1081
+                  },
+                  {
+                    "type": "file",
+                    "name": "MessengerNotificationPreview.js",
+                    "size": 762
+                  },
+                  {
+                    "type": "file",
+                    "name": "OnSiteMessagePreview.js",
+                    "size": 808
+                  },
+                  {
+                    "type": "file",
+                    "name": "OnSiteNotificationPreview.js",
+                    "size": 908
+                  },
+                  {
+                    "type": "file",
+                    "name": "PushNotificationPreview.js",
+                    "size": 1065
+                  },
+                  { "type": "file", "name": "VariantDisplay.js", "size": 1045 },
+                  { "type": "file", "name": "VariantSelector.js", "size": 2476 }
+                ]
+              },
+              { "type": "file", "name": "index.js", "size": 4911 },
+              { "type": "file", "name": "style.scss", "size": 4961 }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "directory",
+        "name": "data",
+        "size": 4096,
+        "contents": [
+          {
+            "type": "directory",
+            "name": "Session",
+            "size": 4096,
+            "contents": [
+              { "type": "file", "name": "Session.js", "size": 1164 },
+              { "type": "file", "name": "WonkaSection.js", "size": 1304 }
+            ]
+          },
+          {
+            "type": "directory",
+            "name": "Wonka",
+            "size": 4096,
+            "contents": [
+              { "type": "file", "name": "Authentication.js", "size": 1320 },
+              { "type": "file", "name": "Customer.js", "size": 785 },
+              { "type": "file", "name": "index.js", "size": 776 },
+              { "type": "file", "name": "Story.js", "size": 2778 },
+              { "type": "file", "name": "Subscriptions.js", "size": 409 },
+              { "type": "file", "name": "Temp.js", "size": 534 }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "directory",
+        "name": "domain",
+        "size": 4096,
+        "contents": [
+          {
+            "type": "directory",
+            "name": "enums",
+            "size": 4096,
+            "contents": [
+              { "type": "file", "name": "AgeGroup.js", "size": 154 },
+              { "type": "file", "name": "Device.js", "size": 106 },
+              { "type": "file", "name": "Gender.js", "size": 100 },
+              { "type": "file", "name": "index.js", "size": 562 },
+              { "type": "file", "name": "NavigationFilter.js", "size": 164 },
+              {
+                "type": "file",
+                "name": "NavigationReferrence.js",
+                "size": 188
+              },
+              { "type": "file", "name": "Priority.js", "size": 104 },
+              { "type": "file", "name": "ScheduleType.js", "size": 94 },
+              { "type": "file", "name": "SimpleFilter.js", "size": 104 },
+              { "type": "file", "name": "StoryStatus.js", "size": 150 },
+              { "type": "file", "name": "StringFilter.js", "size": 334 }
+            ]
+          },
+          {
+            "type": "directory",
+            "name": "mappers",
+            "size": 4096,
+            "contents": [
+              { "type": "file", "name": "ChannelDetails.js", "size": 1463 },
+              { "type": "file", "name": "Channel.js", "size": 2847 },
+              { "type": "file", "name": "Schedule.js", "size": 1735 },
+              { "type": "file", "name": "Story.js", "size": 4003 }
+            ]
+          },
+          {
+            "type": "directory",
+            "name": "mocks",
+            "size": 4096,
+            "contents": [
+              {
+                "type": "directory",
+                "name": "events",
+                "size": 4096,
+                "contents": [
+                  {
+                    "type": "file",
+                    "name": "EventFacebookNotificationMockup.js",
+                    "size": 16240
+                  },
+                  {
+                    "type": "file",
+                    "name": "EventLightBoxMockup.js",
+                    "size": 1830
+                  },
+                  {
+                    "type": "file",
+                    "name": "EventMessageNotificationMockup.js",
+                    "size": 2189
+                  },
+                  {
+                    "type": "file",
+                    "name": "EventOnSiteMessageMockup.js",
+                    "size": 1786
+                  },
+                  {
+                    "type": "file",
+                    "name": "EventOnSiteNotificationMockup.js",
+                    "size": 1886
+                  },
+                  {
+                    "type": "file",
+                    "name": "EventPushNotificationMockup.js",
+                    "size": 16242
+                  },
+                  { "type": "file", "name": "index.js", "size": 590 },
+                  {
+                    "type": "file",
+                    "name": "NavigationEvents.js",
+                    "size": 5152
+                  }
+                ]
+              },
+              {
+                "type": "directory",
+                "name": "models",
+                "size": 4096,
+                "contents": [
+                  { "type": "file", "name": "index.js", "size": 434 },
+                  {
+                    "type": "file",
+                    "name": "ModelsFacebookNotification.js",
+                    "size": 3393
+                  },
+                  {
+                    "type": "file",
+                    "name": "ModelsLightbox.js",
+                    "size": 17801
+                  },
+                  {
+                    "type": "file",
+                    "name": "ModelsOnSiteMessage.js",
+                    "size": 12761
+                  },
+                  {
+                    "type": "file",
+                    "name": "ModelsOnSiteNotification.js",
+                    "size": 14433
+                  },
+                  {
+                    "type": "file",
+                    "name": "ModelsPushNotification.js",
+                    "size": 8819
+                  },
+                  { "type": "file", "name": "ModelStory.js", "size": 4360 }
+                ]
+              },
+              {
+                "type": "directory",
+                "name": "subscriptions",
+                "size": 4096,
+                "contents": [
+                  { "type": "file", "name": "index.js", "size": 3992 }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "directory",
+        "name": "helpers",
+        "size": 4096,
+        "contents": [{ "type": "file", "name": "index.js", "size": 13958 }]
+      },
+      { "type": "file", "name": "i18n.js", "size": 2359 },
+      { "type": "file", "name": "index.js", "size": 255 },
+      { "type": "file", "name": "index.scss", "size": 27 },
+      { "type": "file", "name": "registerServiceWorker.js", "size": 4922 },
+      {
+        "type": "directory",
+        "name": "styles",
+        "size": 4096,
+        "contents": [
+          { "type": "file", "name": "_animations.scss", "size": 4440 },
+          { "type": "file", "name": "_buttons.scss", "size": 6757 },
+          { "type": "file", "name": "_draggableArea.scss", "size": 3041 },
+          { "type": "file", "name": "_fonts.scss", "size": 1275 },
+          { "type": "file", "name": "_forms.scss", "size": 9457 },
+          { "type": "file", "name": "_global.scss", "size": 10946 },
+          { "type": "file", "name": "_grid.scss", "size": 2446 },
+          { "type": "file", "name": "_helpers.scss", "size": 1386 },
+          { "type": "file", "name": "_icons.scss", "size": 265 },
+          { "type": "file", "name": "_notices.scss", "size": 232 },
+          { "type": "file", "name": "react-datepicker.scss", "size": 13827 },
+          { "type": "file", "name": "_reset.scss", "size": 1833 },
+          { "type": "file", "name": "_settings.scss", "size": 2333 },
+          { "type": "file", "name": "_useful.scss", "size": 14544 },
+          { "type": "file", "name": "_vars.scss", "size": 2684 }
+        ]
+      },
+      {
+        "type": "directory",
+        "name": "Test",
+        "size": 4096,
+        "contents": [
+          {
+            "type": "directory",
+            "name": "Editor",
+            "size": 4096,
+            "contents": [{ "type": "file", "name": "index.js", "size": 2888 }]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "report",
+    "variantName": "Proposed Structure",
+    "directories": 54,
+    "files": 219
+  }
+]
