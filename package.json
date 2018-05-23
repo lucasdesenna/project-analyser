@@ -98,6 +98,7 @@
     "extends": "react-app"
   },
   "devDependencies": {
+    "flow": "^0.2.3",
     "gh-pages": "^1.1.0"
   }
 }

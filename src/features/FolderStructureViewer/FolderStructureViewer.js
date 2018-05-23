@@ -5,7 +5,7 @@ import colorThemes from './folderColorsThemes.json';
 import FolderDisplay from './components/FolderDisplay';
 import MetadataDisplay from './components/MetadataDisplay';
 
-class FolderStructureViewer extends React.Component {
+class FolderStructureViewer extends React.PureComponent {
   colorTheme = colorThemes[
     Math.round(Math.random() * (colorThemes.length - 1))
   ];
